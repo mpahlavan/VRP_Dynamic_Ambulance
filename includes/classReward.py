@@ -1,3 +1,4 @@
+# This is a class
 class Reward:
     def __init__(self, id):
         self.id = id
